@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-center{
+    height: 50px;
+
+}
+
+.nav-center{
+    
+}
+.nav-center{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;   
+}
+
+.nav-links {
+    display: flex;
+    
+}
+
+li{
+
+    list-style: none;
+}
+a{
+    color: lightskyblue;
+    font-weight: 700;
+    text-decoration: none;
+    margin-right: 34px;
+}
